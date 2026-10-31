@@ -64,17 +64,15 @@ ShopEase/
 
 **Homepage**
 
-![Food Munch Website Screenshot](https://github.com/user-attachments/assets/234b47bc-e041-4683-9f79-e1b1cd800653)
+<img width="1892" height="876" alt="image" src="https://github.com/user-attachments/assets/07556867-4fe8-4cf8-a617-81c411a12fb8" />
 
-**Why Choose Us**
+**Explore Categories**
 
-<img width="1895" height="588" alt="image" src="https://github.com/user-attachments/assets/5403f83e-4253-4786-a09e-4276f988b505" />
+<img width="1885" height="861" alt="image" src="https://github.com/user-attachments/assets/ccb04ff0-00ee-423c-8c90-73ca2aebdf1c" />
 
-**Explore Menu**
+**Collection with treding products**
 
-<img width="1118" height="877" alt="image" src="https://github.com/user-attachments/assets/0105d60f-f893-4161-98c6-43191f71c853" />
-
-
+<img width="1886" height="907" alt="image" src="https://github.com/user-attachments/assets/50bd9a65-12fa-4dee-af82-4f23fb87a68c" />
 
 ## 🎯 Learning Outcomes
 
