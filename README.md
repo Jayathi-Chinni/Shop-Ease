@@ -60,6 +60,22 @@ ShopEase/
 
 3. Open `index.html` in your preferred browser.
 
+## Output Screenshots
+
+**Homepage**
+
+![Food Munch Website Screenshot](https://github.com/user-attachments/assets/234b47bc-e041-4683-9f79-e1b1cd800653)
+
+**Why Choose Us**
+
+<img width="1895" height="588" alt="image" src="https://github.com/user-attachments/assets/5403f83e-4253-4786-a09e-4276f988b505" />
+
+**Explore Menu**
+
+<img width="1118" height="877" alt="image" src="https://github.com/user-attachments/assets/0105d60f-f893-4161-98c6-43191f71c853" />
+
+
+
 ## 🎯 Learning Outcomes
 
 - Gained practical experience in developing frontend web interfaces.
